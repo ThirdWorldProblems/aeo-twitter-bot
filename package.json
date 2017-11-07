@@ -1,7 +1,7 @@
 {
-  "name": "twp-twitter-bot",
+  "name": "aeo-twitter-bot",
   "version": "1.0.0",
-  "description": "Twitter bot to retweet tweets marked with #charity, #nonprofit, #opensource",
+  "description": "Twitter bot for the alternative-education-facts.org website.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,10 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ThirdWorldProblems/twp-twitter-bot/"
+    "url": "https://github.com/ThirdWorldProblems/aeo-twitter-bot/"
   },
   "keywords": [
     "bot",
-    "twitter"
+    "twitter",
+    "education"
   ]
 }

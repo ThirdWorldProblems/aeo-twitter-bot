@@ -1,8 +1,15 @@
 module.exports = {
     queryString: [
-        '#codeforgood',
-        '#nonprofit',
-        '#opensource'
+        '#belabill',
+        '#BELABill',
+        '#education',
+        '#homeschoolfreedom',
+        '#Homeschooling',
+        '#unschooling',
+        '#cottageschool',
+        '#FreeEducation',
+        '#BrainTeaserTuesday',
+        '#SATPractice'
     ],
     queryStringSubQuery: [
         '',

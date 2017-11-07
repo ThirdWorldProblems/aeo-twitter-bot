@@ -158,7 +158,7 @@ function tweetNow(tweetTxt) {
     };
 
     // HARCODE user name in and check before RT
-    var n = tweetTxt.search(/@w0rldproblems/i)
+    var n = tweetTxt.search(/@AE_facts_org/i)
 
     if (n != -1) {
         console.log('TWEET SELF! Skipped!!')
